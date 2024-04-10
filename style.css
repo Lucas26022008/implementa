@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
 
-h1{
-    font-family: "Asap", sans-serif;
+h1 spam {
+    color:rgb(140, 250, 67);
     font-size: 46px;
 }
 
-spam{
-    color:rgb(72, 255, 0) 
-}
+
 
 body{
     text-align: center;
