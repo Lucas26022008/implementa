@@ -1,17 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&display=swap');
 
-h1 span {
-    color:rgb(140, 250, 67);
-    font-size: 45px;
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: "Asap", sans-serif ;
 }
 
 h1{
     font-size: 45px;
 }
 
-body{
-    text-align: center;
-    background-color: black;
-    color: white;
-    font-family: "Asap", sans-serif ;
+h1 span {
+    color:rgb(140, 250, 67);
+    font-size: 45px;
+}
+
+#dias_restantes{
+    color: aquamarine;
+    font-size: 55px;
 }
