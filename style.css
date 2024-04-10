@@ -2,7 +2,11 @@
 
 h1 span {
     color:rgb(140, 250, 67);
-    font-size: 46px;
+    font-size: 45px;
+}
+
+h1{
+    font-size: 45px;
 }
 
 body{
